@@ -1,6 +1,6 @@
 <?xsd version="1.0"?>
-<xsd:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xsd:element name="booksCanon" type="bookListType"/>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="booksCanon"/>
 
     <xsd:complexType name="book">
         <xsd:sequence>
