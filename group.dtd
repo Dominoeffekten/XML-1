@@ -1,0 +1,4 @@
+<!ELEMENT group (projectmanager, member, menber+)>
+<!ELEMENT projectmanager (#PCDATA)>
+<!ELEMENT member (#PCDATA)>
+<!ELEMENT menber (#PCDATA)>

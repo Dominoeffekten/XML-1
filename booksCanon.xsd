@@ -25,10 +25,12 @@
                     <xsd:element name="place" type="xsd:string"/>
                 </xsd:sequence>
             </xsd:complexType>
+
         <xsd:element name="pages" type="xsd:number"/>
         <xsd:element name="isbn" type="xsd:number"/>
         <xsd:element name="price" type="xsd:number"/>
         <xsd:element name="currency" type="xsd:string"/>
+
             <xsd:complexType name="comments">
                 <xsd:sequence>
                     <xsd:element name="comment" type="xsd:string"/>
@@ -36,7 +38,6 @@
             </xsd:complexType>
 
         </xsd:sequence>
-        
         <xsd:attribute name="ref" type="xsd:string"/>
         <xsd:attribute name="mycanon" type="xsd:string"/>
     </xsd:complexType>

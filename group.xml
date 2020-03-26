@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+
+<group>
+    <projectmanager>projectmanager</projectmanager>
+    <member>member</member>
+    <menber>member</menber>
+</group>

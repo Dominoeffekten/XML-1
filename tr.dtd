@@ -1,0 +1,2 @@
+<!ELEMENT tr (td+)>
+<!ELEMENT td (#PCDATA)>

@@ -1,0 +1,3 @@
+<!ELEMENT class ((group, member+)+)>
+<!ELEMENT group (#PCDATA)>
+<!ELEMENT member (#PCDATA)>

@@ -1,0 +1,2 @@
+<!ELEMENT project (task|#PCDATA)>
+<!ELEMENT task (#PCDATA)>
